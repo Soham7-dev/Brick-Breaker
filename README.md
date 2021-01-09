@@ -2,4 +2,4 @@
 
 # Demo
 
-![BB](https://im7.ezgif.com/tmp/ezgif-7-d0d0e8de4e7e.gif)
+![BB](https://github.com/Soham7-dev/Brick-Breaker/blob/master/BrickBreaker-2021-01-09-12-53-52.gif)
