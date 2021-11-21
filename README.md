@@ -2,7 +2,7 @@
 
 # Demo
 
-![BB](https://github.com/Soham7-dev/Brick-Breaker/blob/master/BrickBreaker-2021-01-09-12-53-52.gif)
+![BB](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/BrickBreaker-2021-01-09-12-53-52%20(1).gif)
 
 # How to Play/Run this Game
 
