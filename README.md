@@ -1,6 +1,7 @@
 ![](https://github.com/libgdx/libgdx/blob/master/libgdx_logo.svg)
 
 # Brick-Breaker
+[YouTube Link](https://youtu.be/MtjxwBK-J2w)
 
 ---
 
